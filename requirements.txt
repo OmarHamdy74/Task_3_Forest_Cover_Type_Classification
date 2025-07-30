@@ -1,0 +1,15 @@
+# Core data wrangling
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+missingno   # heat‑map of missing values
+
+# Modelling
+scikit-learn
+xgboost     # gradient‑boosted trees
+
+# Notebook interface
+jupyterlab   # or 'notebook' if you prefer
